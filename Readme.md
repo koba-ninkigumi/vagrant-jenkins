@@ -1,7 +1,5 @@
 # Jenkins on Ubuntu on Vagrant on Mac OS X
 
-2014/2/3
-
 ## 前準備
 
 ### ホストとなる Mac OS X で環境構築
@@ -23,6 +21,8 @@ vagrantの各種プラグインとberkshelfをインストール
 	sudo gem i berkshelf
 
 	vagrant box add ubuntu-amd64-13.10 http://cloud-images.ubuntu.com/vagrant/saucy/current/saucy-server-cloudimg-amd64-vagrant-disk1.box
+
+## 仮想環境の構築
 
 githubからVagrantfile, Berksfile, recipieなどをダウンロードする
 
