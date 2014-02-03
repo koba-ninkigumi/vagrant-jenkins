@@ -20,7 +20,7 @@ vagrantの各種プラグインとberkshelfをインストール
 	vagrant plugin install vagrant-omnibus
 	sudo gem i berkshelf
 
-	vagrant box add ubuntu-amd64-13.10 http://cloud-images.ubuntu.com/vagrant/saucy/current/saucy-server-cloudimg-amd64-vagrant-disk1.box
+	vagrant box add jenkins http://cloud-images.ubuntu.com/vagrant/saucy/current/saucy-server-cloudimg-amd64-vagrant-disk1.box
 
 ## 仮想環境の構築
 
