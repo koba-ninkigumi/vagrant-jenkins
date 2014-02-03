@@ -1,0 +1,24 @@
+{
+  "sources": {
+    "apt": {
+      "locked_version": "2.3.4"
+    },
+    "jenkins": {
+      "locked_version": "2.0.3",
+      "git": "git://github.com/opscode-cookbooks/jenkins.git",
+      "ref": "bf6ed58ec016f4c84f674a4f3431e53112475caf"
+    },
+    "runit": {
+      "locked_version": "1.5.8"
+    },
+    "build-essential": {
+      "locked_version": "1.4.2"
+    },
+    "yum": {
+      "locked_version": "3.0.6"
+    },
+    "yum-epel": {
+      "locked_version": "0.2.0"
+    }
+  }
+}

@@ -38,3 +38,11 @@ githubからVagrantfile, Berksfile, recipieなどをダウンロードする
 
 	http://192.168.33.10:8080/
 
+
+
+##参考情報
+
+vagrantのチュートリアル（Berkshelfの使用方法などが解説されています）
+
+	http://qiita.com/taiki45/items/b46a2f32248720ec2bae
+
