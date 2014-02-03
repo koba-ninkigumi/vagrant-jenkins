@@ -27,7 +27,7 @@ vagrantの各種プラグインとberkshelfをインストール
 githubからVagrantfile, Berksfile, recipieなどをダウンロードする
 
 	cd ~/Desktop/
-	git-clone https://github.com/koba-ninkigumi/vagrant-jenkins.git
+	git clone https://github.com/koba-ninkigumi/vagrant-jenkins.git
 	cd vagrant-jenkins
 
 仮想環境を起動する
